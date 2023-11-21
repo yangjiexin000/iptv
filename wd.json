@@ -4,6 +4,7 @@
 
 "sites":[
 {"key":"js豆瓣","name":"饭太硬公众号【神秘的哥哥们】关注防失联","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"},
 {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"http://饭太硬.ml/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"http://饭太硬.ml/x/json/biliych.json"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
