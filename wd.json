@@ -1,4 +1,4 @@
-{"code":500,"msg":false,"data":"","exec_time":0.112558,"ip":"58.47.145.178"}{
+{"code":500，"msg":false,"data":"","exec_time":0.112558,"ip":"58.47.145.178"}{
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -966,7 +966,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangjiexin000/iptv/main/tvboxzby.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
